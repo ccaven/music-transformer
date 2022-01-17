@@ -9,7 +9,7 @@ In 2017, a new state-of-the-art was published for natural language processing: t
 
 
 ## Video
-Coming very soon
+[![Thumbnail](thumbnail2.png)](https://youtu.be/gYVZvaOYDsI)
 
 ## Hardware
 Ubuntu
