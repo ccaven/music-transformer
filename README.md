@@ -1,4 +1,4 @@
-# music-ai
+# music-transformer
 Deep learning transformer model that generates unique music sequences.
 
 
